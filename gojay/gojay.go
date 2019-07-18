@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/francoispqt/gojay/gojay/codegen"
+	"github.com/orbs-network/gojay/gojay/codegen"
 	"log"
 )
 

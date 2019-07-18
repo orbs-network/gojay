@@ -5,7 +5,7 @@ This package provides a command line tool to generate gojay's marshaling and unm
 ## Get started
 
 ```sh
-go install github.com/francoispqt/gojay/gojay
+go install github.com/orbs-network/gojay/gojay
 ```
 
 ## Generate code

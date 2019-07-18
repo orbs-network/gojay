@@ -4,7 +4,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/francoispqt/gojay"
+	"github.com/orbs-network/gojay"
 )
 
 // define our custom map type implementing MarshalerJSONObject and UnmarshalerJSONObject
